@@ -1,4 +1,4 @@
-# 👋 Olá, sou @Jonathan Carlos Mrtins!
+# 👋 Olá, sou @Jonathan Carlos Martins!
 
 - 👀 Estou interessado em explorar oportunidades em desenvolvimento de software, especialmente nas áreas de **Java**, **JavaScript** e **desenvolvimento de aplicativos Windows**.
 - 🌱 Atualmente estou aprendendo mais sobre **fundamentos de redes de computadores** e desenvolvendo uma **aplicação de gestão financeira** com back end em **Java** e front end em **JavaScript**.
