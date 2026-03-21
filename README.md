@@ -18,7 +18,7 @@ Atualmente focado em criar soluções eficientes que organizam o dia a dia e oti
 ### 📌 No que estou trabalhando?
 
 * 🔭 **Projeto Atual:** [Modularis_ERP] - Uma aplicação de Gestão empresarial [tem como objetivo central ser um sistema de gestão empresarial profissional,
-*  escalável e totalmente funcional, projetado para resolver problemas reais de negócios e indústrias.] utilizando Java no back-end.
+  escalável e totalmente funcional, projetado para resolver problemas reais de negócios e indústrias.] utilizando Java no back-end.
 * 🌱 **Aprendizado:** Aprofundando conhecimentos em **Redes de Computadores** e **Segurança em Nuvem**.
 * 👯 **Colaboração:** Aberto a projetos de Integração de APIs e Sistemas Web/Desktop.
 
