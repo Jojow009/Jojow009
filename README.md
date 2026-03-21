@@ -1,14 +1,33 @@
-# 👋 Olá, sou @Jonathan Carlos Martins!
+# Olá, eu sou o Jonathan Carlos Martins 👋
 
-- 👀 Estou interessado em explorar oportunidades em desenvolvimento de software, especialmente nas áreas de **Java**, **JavaScript** e **desenvolvimento de aplicativos Windows**.
-- 🌱 Atualmente estou aprendendo mais sobre **fundamentos de redes de computadores** e desenvolvendo uma **aplicação de gestão financeira** com back end em **Java** e front end em **JavaScript**.
-- 💞️ Estou procurando colaborar em projetos que envolvam **desenvolvimento de sistemas**, **integração de APIs**, ou **aplicações web e desktop**.
-- 📫 Como entrar em contato comigo: [jonathancarlos835@gmail.com].
-- 😄 Pronomes: [Jojow009].
-- ⚡ Curiosidade: Sou apaixonado por criar soluções de software que melhoram a eficiência e a organização no dia a dia!
+### Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas
 
-<!---
-Jojow009/Jojow009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to  a look at your changes.
---->
-take
+Atualmente focado em criar soluções eficientes que organizam o dia a dia e otimizam processos. Sou apaixonado por transformar lógica em ferramentas reais.
+
+---
+
+### 🛠️ Minhas Tecnologias
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 No que estou trabalhando?
+
+* 🔭 **Projeto Atual:** [Modularis_ERP] - Uma aplicação de Gestãao impresarial [tem como objetivo central ser um sistema de gestão empresarial profissional,
+*  escalável e totalmente funcional, projetado para resolver problemas reais de negócios e indústrias.] utilizando Java no back-end.
+* 🌱 **Aprendizado:** Aprofundando conhecimentos em **Redes de Computadores** e **Segurança em Nuvem**.
+* 👯 **Colaboração:** Aberto a projetos de Integração de APIs e Sistemas Web/Desktop.
+
+---
+
+
+---
+
+### 📫 Vamos Conversar?
+
+* **Email:** jonathancarlos835@gmail.com
+* **LinkedIn:** [Seu Link do LinkedIn aqui]
