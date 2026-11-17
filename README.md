@@ -33,4 +33,4 @@ Atualmente focado em criar soluções eficientes que organizam o dia a dia e oti
 ### 📫 Vamos Conversar?
 
 * **Email:** jonathancarlos835@gmail.com
-* **LinkedIn:** [Seu Link do LinkedIn aqui]
+
